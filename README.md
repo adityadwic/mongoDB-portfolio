@@ -101,6 +101,8 @@ python run_tests.py --suite functional
 
 ## 📊 Sample Test Results
 
+<img width="1439" height="848" alt="mongodb-test-report" src="https://github.com/user-attachments/assets/e72c52d8-d087-4fed-8dc1-e487533974f9" />
+
 ```json
 {
   "test_execution_summary": {
